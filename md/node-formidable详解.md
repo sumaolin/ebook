@@ -1,5 +1,9 @@
 # node-formidable详解
 
+author :  [skindhu](https://cnodejs.org/user/skindhu)
+
+原文地址 : [node-formidable详解](https://cnodejs.org/topic/4f16442ccae1f4aa2700104d)
+
 ### 前言
 
 最近在研究nodejs如何实现文件上传功能，偶然读到<a href=“http://cnodejs.org/blog/?p=2207”>《nodejs-post文件上传原理详解》</a>这篇教程，感觉非常给力。教程中详细解读了post数据格式，以及通过分析node-formidable模块的源代码来解读文件上传的原理。
